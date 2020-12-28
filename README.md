@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm **Florencia**  
+I'm currently learning about web development with Node.js and JavaScript.
+
 <!--
 **FloreParra/FloreParra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
